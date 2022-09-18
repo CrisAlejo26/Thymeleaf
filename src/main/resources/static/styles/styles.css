@@ -1,0 +1,38 @@
+.imagen{
+    background-image: url(../styles/images/Portada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 200px;
+}
+
+.centrarBoton{
+    display: flex;
+    justify-content: center;
+    margin-left: 520px;
+    margin-top: 400px;
+}
+
+.centrarBotonCrear{
+    display: flex;
+    justify-content: center;
+    margin-left: 520px;
+    margin-top: 20px;
+}
+
+.texto{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.tabla{
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.agregar{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
